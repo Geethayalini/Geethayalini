@@ -1,1 +1,1 @@
-Hi, This is Geethayalini T. I have 8 years experience in ePublishing industry. I have worked javascript partially at that time. For achieving my goal, i'm learing full stack developer course in Credo System. I have completed React JS. I'm learning java. 
+Hi, This is Geethayalini T. I have 8 years experience in ePublishing industry. I have worked javascript partially at that time. For achieving my goal, i'm learning full stack developer course in Credo System. I have completed React JS. I'm learning java. 
